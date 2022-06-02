@@ -1,2 +1,2 @@
-# node.jsCalculator
+# node.js Calculator
 В файле показано 3 легких способа роботы с async,await,и вопросами в консоле
